@@ -1,5 +1,8 @@
-# State of the Art Document: Suman Pharma Online Website
+# Suman Pharma Web Application
+One Stop Shop Solution for All Medical Supplies
+Suman Pharma was incorporate in 2015 with a vision and mission to be recoganised as a leader in supply chain distribution channel in India. Over the period we have become authorised distributors for more than 190 reputed International and National companies. Our supply chain network has the capablility to fulfil all the requirements of Pharmacy, Surgical, Lab, Cathlab, Stent, Implants and medical devices. We believe in providing seemless sourcing experience to all our customers.
 
+# State of the Art Document: 
 ## 1. Relevance of the Project and Industry Overview
 
 ### Overview of the Pharma Industry (2013–2023)
