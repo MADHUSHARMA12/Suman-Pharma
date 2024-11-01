@@ -51,9 +51,9 @@ Similar websites in the pharma industry have been successful in fostering digita
 
 The following steps outline the logical flow of the website development project, from initial planning to deployment and maintenance.
 
-# SVS Pharma Website - Functional Flowchart
+# Suman Pharma Website - Functional Flowchart
 
-This flowchart describes the core and subsidiary functionalities of the **SVS Pharma Website** project. It outlines the main components such as user authentication, product and service management, and contact form handling.
+This flowchart describes the core and subsidiary functionalities of the **Suman Pharma Website** project. It outlines the main components such as user authentication, product and service management, and contact form handling.
 
 ```
 +------------------------------------------+
