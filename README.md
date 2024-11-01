@@ -49,6 +49,67 @@ Similar websites in the pharma industry have been successful in fostering digita
 The following steps outline the logical flow of the website development project, from initial planning to deployment and maintenance.
 
 ### Algorithm for Project Development
++------------------------------------------+
+|          Suman Pharma Website              |
++------------------------------------------+
+           |
+           v
++------------------------------------------+
+|        User Authentication               |
++------------------------------------------+
+|  - Register / Login                      |
+|  - Role-based Access Control             |
+|  - Secure Session Management             |
++------------------------------------------+
+           |
+           v
++------------------------------------------+
+|      Product and Service Catalog         |
++------------------------------------------+
+           |
+           +-----------------------------------------------+
+           |                                               |
+           v                                               v
++-------------------------------+                +------------------------------+
+| Product Listings              |                | Service Descriptions         |
++-------------------------------+                +------------------------------+
+| - Display all products        |                | - Display all services       |
+| - Filter by category          |                | - Detailed service pages     |
+| - Individual product pages    |                +------------------------------+
++-------------------------------+                            |
+           |                                                v
+           |                                     +-----------------------------+
+           |                                     | Product and Service Search  |
+           |                                     +-----------------------------+
+           |                                     | - Filter by keyword         |
+           |                                     | - Filter by category        |
+           |                                     +-----------------------------+
+           v
++-----------------------------------------------+
+|        Contact Form and Inquiry Handling      |
++-----------------------------------------------+
+| - Contact form submission                     |
+| - Email notifications for new inquiries       |
+| - Store inquiries in database for admin view  |
++-----------------------------------------------+
+           |
+           v
++------------------------------------------+
+|           Dashboard / Admin View         |
++------------------------------------------+
+| - Manage products and services           |
+| - View contact inquiries                 |
+| - Add or update catalog items            |
++------------------------------------------+
+           |
+           v
++------------------------------------------+
+|        Deployment and Optimization       |
++------------------------------------------+
+| - Configure for Nimbus platform          |
+| - Set up caching and performance tuning  |
+| - Implement SEO and analytics tracking   |
++------------------------------------------+
 
 1. **Define Goals and Objectives**:
    - Identify specific goals for the website, such as information accessibility and user engagement.
