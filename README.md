@@ -57,7 +57,7 @@ This flowchart describes the core and subsidiary functionalities of the **SVS Ph
 
 ```
 +------------------------------------------+
-|          SVS Pharma Website              |
+|          Suman Pharma Website              |
 +------------------------------------------+
            |
            v
