@@ -207,24 +207,20 @@ This flowchart describes the core and subsidiary functionalities of the **SVS Ph
 
 ---
 
-## 5. Required Documentation
-
-The project documentation includes the following:
-
-1. **Technical Documentation**: Describes the development process, technology stack, and configurations.
-2. **Project Architecture Documentation**: Provides an overview of the architecture, data flow, and key components.
-3. **Business Logic Documentation**: Details the logical flow and functionality of each feature.
-4. **Software Requirements Specification (SRS)**: Lists technical requirements, dependencies, and development tools.
-5. **Design Documentation**: Includes wireframes, mockups, and UI/UX design guidelines.
-6. **API Documentation**: Details API endpoints if applicable.
-7. **Data Model Documentation**: Outlines the database schema and relationships.
-8. **Coding Standards Documentation**: Describes coding practices and standards followed.
-9. **Test Documentation**: Records test cases, methods, and results.
-10. **Maintenance Documentation**: Describes ongoing support procedures, including regular updates and troubleshooting.
-11. **Compliance Documentation**: Details adherence to industry standards and regulatory guidelines.
-12. **User Documentation**: Provides instructions for admin and end-user functionalities.
-13. **Release Manual**: Outlines steps for deployment and configuration.
-
+## 6. Evaluation Criteria
+### Feature Completion: Fulfillment of primary features, including time tracking, project selection, and data browsing.
+### Code Structure: Emphasis on modularity and reusability.
+### Design Standards: Use of effective design principles, focusing on ease of use and functionality.
+### Optional Points:
+- Clean UI for a user-friendly experience.
+- Comprehensive Documentation (this README).
+- Hosting readiness for deployment.
+  
 --- 
 
-This comprehensive document gives a detailed, structured overview of the Suman Pharma website project, covering each phase of development, business rationale, and technical documentation needed to ensure a successful and sustainable online presence.
+## Project Structure and Design Principles
+
+- **Modularity and Code Reusability**: Code is structured into reusable modules for maintainability and scalability.
+- **Error Handling**: Thoughtful error handling ensures robust user interaction.
+- **UI Design**: A simple, clean interface makes navigation intuitive, aligning with core user needs.
+
